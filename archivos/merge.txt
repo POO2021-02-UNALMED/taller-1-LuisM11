@@ -1,1 +1,2 @@
 Luis Felipe Marin Buitrago 21 años, aspiro adquirir todos los conocimientos que veremos  a lo largo del curso y sobretodo poder aplicarlos en los trabajos y necesidades que tenga en un futuro
+Ahora se puede crear commit y subir la carpeta archivos dado que no esta vacia, las carpetas vacias no se consideran cambios
